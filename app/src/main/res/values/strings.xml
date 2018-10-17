@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kamus</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_first_run">first</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_word">Insert Word</string>
+    <string name="eng_ind">ENG-IND</string>
+    <string name="ind_eng">IND-ENG</string>
+    <string name="kamus">Kamus</string>
+    <string name="project_kamus_dicoding">Project Kamus Dicoding</string>
+    <string name="app_first_run_id">first_id</string>
+</resources>
